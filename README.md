@@ -1,6 +1,6 @@
 
 # The-ABM-in-Archaeology-Bibliography
-A comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology. Maintained and created by Iza Romanowska and Lennart Linde. Know a missing resource or find a broken link? Put up a pull request!
+A comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology. Maintained and created by Iza Romanowska and Lennart Linde. Know a missing resource or found a broken link? Put up a [pull request](https://help.github.com/articles/creating-a-pull-request/)! 
 
 ## Literature
 ### Introduction
@@ -24,7 +24,7 @@ A comprehensive list of literature and resources on Agent Based Models (ABM) in 
 
 ## Software
 ### Open Source
-* [NetLogo](https://ccl.northwestern.edu/netlogo/): Is an agent-based programming language and integrated modeling environment. It's widely used and considered as beginner friendly. [wikipedia entry](https://en.wikipedia.org/wiki/NetLogo)
+* [NetLogo](https://ccl.northwestern.edu/netlogo/): Is an agent-based programming language and integrated modeling environment. It is widely used and considered very user-friendly. [wikipedia entry](https://en.wikipedia.org/wiki/NetLogo)
 
 ## Resources
 * [OpenABM](https://www.openabm.org/): Provides a collection of tutorials and FAQs, a model library to share models, and forums for discussions and job postings.
