@@ -20,7 +20,7 @@ A comprehensive list of literature and resources on Agent Based Models (ABM) in 
 * Moss, S. 2008: Alternative Approaches to the Empirical Validation of Agent-Based Models. _Journal of Artificial Societies and Social Simulation 11 (15): 16._ [Online](http://jasss.soc.surrey.ac.uk/11/1/5.html)
 
 ### Documentation
-* Grimm, V., Berger, U. and DeAngelis, D. L. _Et al._ 2010: The ODD protocol: A review and first update _Ecological Modelling 221. 2760–2768._ [Online](http://bio.uib.no/te/papers/Grimm_2010_The_ODD_protocol_.pdf)
+* Grimm, V., Berger, U. and DeAngelis, D. L. _Et al._ 2010: The ODD protocol: A review and first update. _Ecological Modelling 221. 2760–2768._ [Online](http://bio.uib.no/te/papers/Grimm_2010_The_ODD_protocol_.pdf)
 
 ### Case Studys
 * Altaweel, M. 2006: Adressing the Structures and Dynamics of Modeled Human Ecologies. In: Digital Discovery: Exploring New Frontiers in Human Heritage. CAA, 30-41. [Online](http://proceedings.caaconference.org/files/2006/CD04_Altaweel_CAA2006.pdf)
