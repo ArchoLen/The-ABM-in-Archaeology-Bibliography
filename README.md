@@ -1,20 +1,38 @@
 # The-ABM-in-Archaeology-Bibliography
-A comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology. Maintained and created by Iza Romanowska and Lennart Linde. Know a missing resource or found a broken link? Put up a [pull request](https://help.github.com/articles/creating-a-pull-request/)!
+A selected yet comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology. Maintained and created by Iza Romanowska and Lennart Linde. Know a missing resource or found a broken link? Put up a [pull request](https://help.github.com/articles/creating-a-pull-request/)!
 
 ## Literature
-### Introduction
+
+### Introductions
+#### General Introduction to complexity science and simulation
+
+* Mitchell, M. 2009: Complexity. A Guided Tour. (Oxford University Press. Oxford) ISBN: 978-0199798100
+* Lewin, R., 2000: Complexity: Life at the Edge of Chaos. (University of Chicago Press. Chicago) ISBN: 0226476545
+
+
 #### General Introduction to ABM
 * Wilensky, U. and Rand, W. 2015: An Introduction to Agent-Based Modeling. Modeling Natural, Social, and Engineered Complex Systems with NetLogo. (MIT Press London/Cambridge MA) ISBN: 9780262731898
 
+
 #### Introduction to ABMs in Archaeology
+
 * Kohler, T. A. and van der Leeuw, S. E. (Eds.) 2007: The Model-Based Archaeology of Socionatural Systems. (AdvanceResearch Press. Santa Fe) ISBN: 9781930618879
+
+* Premo, L.S. 2006: Agent-based models as behavioral laboratories for evolutionary anthropological research. _Arizona Anthropologist_ 17. 91–113. [Online](https://arizona.openrepository.com/arizona/bitstream/10150/110026/1/azu_gn1_a785_n17_91_113_v.pdf)
 
 * Romanowska, I. 2015: So You Think You Can Model? A Guide to Building and Evaluating Archaeological Simulation Models of Dispersals. _Human Biology Open Access Pre-Prints 79_.
 [Online](http://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1077&context=humbiol_preprints)
 
 * Wurzer, G., Kowarik, K. and Reschreiter, H. 2015: Agent-based Modeling and Simulation in Archaeology. (Springer Berlin/New York) ISBN: 9783319000077
 
-### Verification & Validation
+### Coding textbooks
+* Netlogo: Railsback, S.F. & Grimm, V. 2011: Agent-Based and Individual-Based Modeling: A Practical Introduction. (Princeton University Press. Princeton) [Downloables](http://www.railsback-grimm-abm-book.com)
+
+* Netlogo, spatial aspects: O’Sullivan, D. & Perry, G. 2013: Spatial Simulation: Exploring Pattern and Process. (Wiley-Blackwell. Chichester). [Downloables](http://patternandprocess.org)
+
+* Python: Downey, A.B. 2012: Think Complexity. (O’Reilly, Sebastopol, CA). [Online](http://greenteapress.com/complexity)
+
+### Verification & Validation)
 * Brouwer Burg, M., Peeters, H. and Lovis, W. A. (Eds.) 2016: Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling. (Springer Berlin/New York) ISBN: 9783319278315
 
 * Moss, S. 2008: Alternative Approaches to the Empirical Validation of Agent-Based Models. _Journal of Artificial Societies and Social Simulation 11 (15): 16._ [Online](http://jasss.soc.surrey.ac.uk/11/1/5.html)
@@ -56,6 +74,8 @@ A comprehensive list of literature and resources on Agent Based Models (ABM) in 
 * [NetLogo](https://ccl.northwestern.edu/netlogo/): Is an agent-based programming language and integrated modeling environment. It is widely used and considered very user-friendly. [wikipedia entry](https://en.wikipedia.org/wiki/NetLogo)
 
 * [RePast](https://repast.github.io/): Is a collection of modeling and simulation platforms that utilize Java and C++.
+
+* [Python](https://anaconda.org/anaconda/python): A general use programming language. Easy to learn and very flexible. 
 
 ## Resources
 * [OpenABM](https://www.openabm.org/): Provides a collection of tutorials and FAQs, a model library to share models, and forums for discussions and job postings.
