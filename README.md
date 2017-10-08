@@ -12,12 +12,15 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 
 * Lewin, R., 2000: Complexity: Life at the Edge of Chaos. (University of Chicago Press. Chicago) ISBN: 0226476545
 
-
-#### General Introduction to ABM
 * Wilensky, U. and Rand, W. 2015: An Introduction to Agent-Based Modeling. Modeling Natural, Social, and Engineered Complex Systems with NetLogo. (MIT Press London/Cambridge MA) ISBN: 9780262731898
 
 
 #### Introduction to ABMs in Archaeology
+
+* Barceló, J.A. and Del Castillo, F. 2016. Simulating Prehistoric and Ancient Worlds. (Springer, Cham, Switzerland) ISBN: 978-3-319-31479-2 doi: 10.1007/978-3-319-31481-5
+
+* Cegielski, W.H. and Rogers, J.D., 2016: Rethinking the role of Agent-Based Modeling in archaeology. _Journal of Anthropological Archaeology 41. 283–298._ [Paywall](http://www.sciencedirect.com/science/article/pii/S0278416516000118) doi: 10.1016/j.jaa.2016.01.009 
+
 * Kohler, T. A. and van der Leeuw, S. E. (Eds.) 2007: The Model-Based Archaeology of Socionatural Systems. (AdvanceResearch Press. Santa Fe) ISBN: 9781930618879
 
 * Kohler, T. A. 2012: Complex Systems and Archaeology. In: Archaeological Theory Today. (Polity Press. Cambridge) [Online](http://www.santafe.edu/media/workingpapers/11-06-023.pdf)
@@ -61,17 +64,23 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 
 * Brughmans, T., and J. Poblome. 2016: Roman Bazaar or Market Economy? Explaining Tableware Distributions in the Roman East through Computational Modelling. _Antiquity 90 (350). 393–408._ doi:10.15184/aqy.2016.35.
 
+* Castillo, F. Del and Barceló, J.A. 2009: Why Hunter and Gatherers did not Die More Often? Simulating Prehistoric Decision Making. In: Archaeology in the Digital Era. CAA 2012, 154–163. (Amsterdam University Press, Amsterdam) [Online](https://books.google.es/books?id=OJaDAwAAQBAJ&lpg=PA154&ots=vrBVZp5mOg&dq=Why%20Hunter%20and%20Gatherers%20did%20not%20Die%20More%20Often%3F%20Simulating%20Prehistoric%20Decision%20Making&pg=PA154#v=onepage&q=Why%20Hunter%20and%20Gatherers%20did%20not%20Die%20More%20Often?%20Simulating%20Prehistoric%20Decision%20Making&f=false)
+
 * Cockburn, D., S. A. Crabtree, Z. Kobti, _Et al._ 2013: Simulating Social and Economic Specialization in Small-Scale Agricultural Societies. _Journal of Artificial Societies and Social Simulation 16 (4): 4._ [Online](http://jasss.soc.surrey.ac.uk/16/4/4.html)
 
 * Crema, E. R. 2014: A Simulation Model of Fission – Fusion Dynamics and Long-Term Settlement Change. _Journal of Archaeological Method and Theory 21. 385–404._ doi:10.1007/s10816-013-9185-4.
 
 * Dean, J. S., Gumerman, G. J. and Epstein, J. M. _Et al._ 1999: Unterstanding Anasazi Culture Change Through Agent-Based Modelling. In: Dynamics in Human and PrimateSocieties. Agent-Based Modeling of social and spatial processes. (Oxford University press Oxford) 179-207.
 
+* Doran, J. 2005: Iruba: An Agent-Based Model of the Guerrilla War Process. In: Representing Social Reality, 198–205. [Online](http://cswww.sx.ac.uk/staff/doran/34.PDF)
+
 * Doran, J., Palmer, M., and Gilbert, N. _Et al._ 1994: The EOS Project: Modeling Upper Paleolithic Social Change. In: ArtificialSocieties (UCL Press London) 195-221.
 
 * Ginn, V. R. 2016: Mapping Society: Settlement Structure in Later Bronze Age Ireland. (ArchaeoPress Oxford) ISBN: 9781784912437 [Contents](http://www.archaeopress.com/ArchaeopressShop/DMS/548DF96BC1CC446E8F48EE7C823D1431/Ginn%20-%20contents.pdf)
 
 * Graham, S. 2005: Agent-based modeling, archaeology and social organisation: The robustness of Rome. _The Archaeological Computing Newsletter 63. 1-6._ [Online](http://www.archcalc.cnr.it/acn/per_ACN63/ACN63_testo.pdf)
+
+* Graham, S. 2006: Networks, Agent-Based Models and the Antonine Itineraries: Implications for Roman Archaeology. _Journal of Mediterranean Archaeology 19 (1). 45–64._ [Online](https://www.academia.edu/598316/Networks_agent-based_models_and_the_Antonine_itineraries_implications_for_Roman_archaeology) doi:10.1558/jmea.2006.19.1.45.
 
 * Graham, S. 2009: Behaviour Space: Simulating Roman Social Life and Civil Violence. _Digital Studies/Le champ numérique, 1(2)._ [Online](https://www.digitalstudies.org/articles/10.16995/dscn.109/)
 
@@ -81,17 +90,23 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 
 * Griffin, A. F. and Stanish, C. 2007: An Agent-based Model of Prehistoric Settlement Patterns and Political Consolidation in the Lake Titicaca Basin of Peru and Bolivia. _Structure and Dynamics, 2(2)._ [Online](http://escholarship.org/uc/item/2zd1t887#page-38)
 
+* Heckbert, S. 2013: MayaSim: An Agent-Based Model of the Ancient Maya Social-Ecological System. _Journal of Artificial Societies and Social Simulation 16 (4). 11._ [Online](http://jasss.soc.surrey.ac.uk/16/4/11.html)
+
 * Janssen, M. A. 2009: Understanding ArtificialAnasazi. _Journal of Artificial Societies and Social Simulation 12(4)13._ [Online](http://jasss.soc.surrey.ac.uk/12/4/13.html)
 
 * Kowarik, K., Reschreiter H., and Wurzer G. 2010: Modeling a mine. Agentbased Modeling, Systemdynamics and Experimental Archaeology applied to the Bronze Age Saltmines of Hallstatt. In: Mining in European History. SFB HiMAT (Innsbruck), 44-53. [Online](https://www.academia.edu/6325518/K._Kowarik_H._Reschreiter_and_G._Wurzer_2010_Modeling_a_mine._Agentbased_Modeling_Systemdynamics_and_Experimental_Archaeology_applied_to_the_Bronze_Age_Saltmines_of_Hallstatt._In_Mining_in_European_History._SFB_HiMAT_44-53)
 
 * Premo, L. S. 2008: Exploring behavioral terrain cognita with archaeological agent-based models. In: BeyondIllustration: 2D and 3D Technologies as Tools ofD iscovery in Archaeology. BAR 1805 (ArchaeoPress Oxford) 46-56.
 
+* Rubio Campillo, X., Cela, J.-M. and Hernàndez Cardona, F. X. 2012: Simulating Archaeologists? Using Agent-Based Modelling to Improve Battlefield Excavations. _Journal of Archaeological Science 39 (2). 347–56._ doi:10.1016/j.jas.2011.09.020.
+
 * Turchin, P., Currie, T. E., Turner, E. A. L. and Gavrilets, S. 2013: War, space, and the evolution of Old World complex societies. _PNAS 111 (41)._ [Abstract](http://www.pnas.org/content/110/41/16384.abstract)
+
+* Vegvari, C. and Foley, R., 2014: High selection pressure promotes increase in cumulative adaptive culture. _PloS One, 9(1). p.e86406._ [Online](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086406)
 
 * Wilkinson, T. J. _Et al._ 2007: Modeling Settlement Systems in a dynamic Environment, Case Studies from Mesopotamia. In: The Model-Based Archaeology of Socionatural Systems. (AdvanceResearch Press. Santa Fe) 175-208.
 
-* Wren, C. D., J. Z. Xue, A. Costopoulos, and A. Burke. 2014: The Role of Spatial Foresight in Models of Hominin Dispersal. _Journal of Human Evolution 69. 70–78._ doi:10.1016/j.jhevol.2014.02.004.
+* Wren, C. D., Xue, J. Z., Costopoulos, A. and Burke A. 2014: The Role of Spatial Foresight in Models of Hominin Dispersal. _Journal of Human Evolution 69. 70–78._ doi:10.1016/j.jhevol.2014.02.004.
 
 ## Software
 
