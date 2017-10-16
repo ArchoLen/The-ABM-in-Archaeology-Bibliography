@@ -1,6 +1,35 @@
 # The-ABM-in-Archaeology-Bibliography
 A selected yet comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology. Maintained and created by Iza Romanowska and Lennart Linde. Know a missing resource or found a broken link? Put up a [pull request](https://help.github.com/articles/creating-a-pull-request/)!
 
+---
+## The subjective list of Must-reads
+
+
+
+
+* Axtell, R. L., Epstein, J. M., Dean, J. S. _Et al._ 2002: Population Growth and Collapse in a Multiagent Model of the Kayenta Anasazi in Long House Valley. _PNAS 99. 7275–79._ [Online](http://www.pnas.org/content/99/suppl_3/7275.full)
+
+* Castellani, B. 2012: Complexity map. [Online](http://www.art-sciencefactory.com/complexity-map_feb09.html)
+
+* Kohler, T. A. 2012: Complex Systems and Archaeology. In: Archaeological Theory Today. (Polity Press. Cambridge) [Online](http://www.santafe.edu/media/workingpapers/11-06-023.pdf)
+
+* Lake, M.W. 2014: Trends in Archaeological Simulation. _Journal of Archaeological Method and Theory 21. 258–287._ [Online](https://link.springer.com/article/10.1007/s10816-013-9188-1) doi: 10.1007/s10816-013-9188-1
+
+* Lewin, R., 2000: Complexity: Life at the Edge of Chaos. (University of Chicago Press. Chicago) ISBN: 0226476545
+
+* Premo, L.S. 2006: Agent-based models as behavioral laboratories for evolutionary anthropological research. _Arizona Anthropologist 17. 91–113._ [Online](https://arizona.openrepository.com/arizona/bitstream/10150/110026/1/azu_gn1_a785_n17_91_113_v.pdf)
+
+* Romanowska, I. 2015: So You Think You Can Model? A Guide to Building and Evaluating Archaeological Simulation Models of Dispersals. _Human Biology Open Access Pre-Prints 79_.
+[Online](http://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1077&context=humbiol_preprints)
+
+if coding in Netlogo: 
+* Netlogo, ecology: Railsback, S.F. and Grimm, V. 2011: Agent-Based and Individual-Based Modeling: A Practical Introduction. (Princeton University Press. Princeton) [Downloables](http://www.railsback-grimm-abm-book.com)
+if coding in Python: 
+* Python: Downey, A.B. 2012: Think Complexity. (O’Reilly, Sebastopol, CA). [Online](http://greenteapress.com/complexity)
+
+
+---
+
 ## Literature
 
 ### Introductions
@@ -31,6 +60,7 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 
 * Romanowska, I. 2015: So You Think You Can Model? A Guide to Building and Evaluating Archaeological Simulation Models of Dispersals. _Human Biology Open Access Pre-Prints 79_.
 [Online](http://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1077&context=humbiol_preprints)
+Whitley, T. G. 2016: Archaeological Simulation and the Testing Paradigm. In: Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling (Springer International Publishing. Cham) doi:10.1007/978-3-319-27833-9.
 
 * Wurzer, G., Kowarik, K. and Reschreiter, H. 2015: Agent-based Modeling and Simulation in Archaeology. (Springer Berlin/New York) ISBN: 9783319000077
 
