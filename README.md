@@ -2,7 +2,7 @@
 A selected yet comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology. Maintained and created by Iza Romanowska and Lennart Linde. Know a missing resource or found a broken link? Put up a [pull request](https://help.github.com/articles/creating-a-pull-request/)!
 
 ---
-## The subjective list of Must-reads
+## The very subjective list of must-reads
 
 
 
@@ -24,6 +24,7 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 
 if coding in Netlogo: 
 * Netlogo, ecology: Railsback, S.F. and Grimm, V. 2011: Agent-Based and Individual-Based Modeling: A Practical Introduction. (Princeton University Press. Princeton) [Downloables](http://www.railsback-grimm-abm-book.com)
+
 if coding in Python: 
 * Python: Downey, A.B. 2012: Think Complexity. (O’Reilly, Sebastopol, CA). [Online](http://greenteapress.com/complexity)
 
@@ -37,6 +38,14 @@ if coding in Python:
 
 * Castellani, B. 2012: Complexity map. [Online](http://www.art-sciencefactory.com/complexity-map_feb09.html)
 
+* Chattoe-Brown, E. 2013: Why Sociology Should Use Agent Based Modelling. _Sociological Research Online 18 (3): 3._ doi:10.5153/sro.3055.
+
+* Epstein, J. M. 2006: Generative Social Science: Studies in Agent-Based Computational Modeling. (Princeton University Press. Princeton) ISBN: 9781400842872
+
+* Epstein, J. M., and Axtell, R. L. 1996. Growing Artificial Societies. Social Science from the Bottom Up. (MIT Press. Boston) ISBN: 9780262050531
+
+* Hartmann, S. 1996: The World as a Process: Simulations in the Natural and Social Sciences. In: Modelling and Simulation in the Social Sciences from the Philosophy of Science Point of View. (Kluwer. Dordrecht) [Online](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.585.7945&rep=rep1&type=pdf) doi:10.1007/978-94-015-8686-3_5.
+
 * Mitchell, M. 2009: Complexity. A Guided Tour. (Oxford University Press. Oxford) ISBN: 978-0199798100
 
 * Lewin, R., 2000: Complexity: Life at the Edge of Chaos. (University of Chicago Press. Chicago) ISBN: 0226476545
@@ -47,6 +56,8 @@ if coding in Python:
 #### Introduction to ABMs in Archaeology
 
 * Barceló, J.A. and Del Castillo, F. 2016. Simulating Prehistoric and Ancient Worlds. (Springer, Cham, Switzerland) ISBN: 978-3-319-31479-2 doi: 10.1007/978-3-319-31481-5
+
+* Barton, C.M. 2014: Complexity, Social Complexity, and Modeling. _Journal of Archaeoligcal Method and Theory. 21. 306-324._ doi:10.1007/s10816-013-9187-2.
 
 * Cegielski, W.H. and Rogers, J.D., 2016: Rethinking the role of Agent-Based Modeling in archaeology. _Journal of Anthropological Archaeology 41. 283–298._ [Paywall](http://www.sciencedirect.com/science/article/pii/S0278416516000118) doi: 10.1016/j.jaa.2016.01.009 
 
@@ -60,7 +71,8 @@ if coding in Python:
 
 * Romanowska, I. 2015: So You Think You Can Model? A Guide to Building and Evaluating Archaeological Simulation Models of Dispersals. _Human Biology Open Access Pre-Prints 79_.
 [Online](http://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1077&context=humbiol_preprints)
-Whitley, T. G. 2016: Archaeological Simulation and the Testing Paradigm. In: Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling (Springer International Publishing. Cham) doi:10.1007/978-3-319-27833-9.
+
+* Whitley, T. G. 2016: Archaeological Simulation and the Testing Paradigm. In: Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling (Springer International Publishing. Cham) doi:10.1007/978-3-319-27833-9.
 
 * Wurzer, G., Kowarik, K. and Reschreiter, H. 2015: Agent-based Modeling and Simulation in Archaeology. (Springer Berlin/New York) ISBN: 9783319000077
 
@@ -86,9 +98,14 @@ Whitley, T. G. 2016: Archaeological Simulation and the Testing Paradigm. In: Unc
 
 
 ### Case Studys
+
+* Angourakis, A., B. Rondelli, S. Stride _Et al._ 2014: Land Use Patterns in Central Asia. Step 1: The Musical Chairs Model. _Journal of Archaeological Method and Theory 21: 405–25._ doi:10.1007/s10816-013-9197-0.
+
 * Altaweel, M. 2006: Adressing the Structures and Dynamics of Modeled Human Ecologies. In: Digital Discovery: Exploring New Frontiers in Human Heritage. CAA, 30-41. [Online](http://proceedings.caaconference.org/files/2006/CD04_Altaweel_CAA2006.pdf)
 
 * Axtell, R. L., Epstein, J. M., Dean, J. S. _Et al._ 2002: Population Growth and Collapse in a Multiagent Model of the Kayenta Anasazi in Long House Valley. _PNAS 99. 7275–79._ [Online](http://www.pnas.org/content/99/suppl_3/7275.full)
+
+* Barton, C. M., Ullah, I. I., and Bergin, S. 2010: Land Use, Water and Mediterranean Landscapes: Modelling Long-Term Dynamics of Complex Socio-Ecological Systems. _Philosophical Transactions of the Royal Society A 368(1931). 5275–97._ doi: 10.1098/rsta.2010.0193
 
 * Brantingham, P. J. 2003: A Neutral Model of Stone Raw Material Procurement. _American Antiquity 68 (1). 487–509._ doi:10.2307/3557105. [Online](http://paleo.sscnet.ucla.edu/BrantinghamAmAntiq2003.pdf)
 
@@ -96,9 +113,19 @@ Whitley, T. G. 2016: Archaeological Simulation and the Testing Paradigm. In: Unc
 
 * Castillo, F. Del and Barceló, J.A. 2009: Why Hunter and Gatherers did not Die More Often? Simulating Prehistoric Decision Making. In: Archaeology in the Digital Era. CAA 2012, 154–163. (Amsterdam University Press, Amsterdam) [Online](https://books.google.es/books?id=OJaDAwAAQBAJ&lpg=PA154&ots=vrBVZp5mOg&dq=Why%20Hunter%20and%20Gatherers%20did%20not%20Die%20More%20Often%3F%20Simulating%20Prehistoric%20Decision%20Making&pg=PA154#v=onepage&q=Why%20Hunter%20and%20Gatherers%20did%20not%20Die%20More%20Often?%20Simulating%20Prehistoric%20Decision%20Making&f=false)
 
+* Clark, J. and Crabtree, S. 2015: Examining Social Adaptations in a Volatile Landscape in Northern Mongolia via the Agent-Based Model Ger Grouper. _Land 4. 157–81._ [Online](http://www.mdpi.com/2073-445X/4/1/157/)
+
 * Cockburn, D., S. A. Crabtree, Z. Kobti, _Et al._ 2013: Simulating Social and Economic Specialization in Small-Scale Agricultural Societies. _Journal of Artificial Societies and Social Simulation 16 (4): 4._ [Online](http://jasss.soc.surrey.ac.uk/16/4/4.html)
 
+* Crabtree, S. 2016: Simulating Littoral Trade: Modeling the Trade of Wine in the Bronze to Iron Age Transition in Southern France. _Land 5 (1): 5._ [Online](www.mdpi.com/2073-445X/5/1/5/pdf) doi:10.3390/land5010005.
+
 * Crema, E. R. 2014: A Simulation Model of Fission – Fusion Dynamics and Long-Term Settlement Change. _Journal of Archaeological Method and Theory 21. 385–404._ doi:10.1007/s10816-013-9185-4.
+
+* Cuthbert, M.O., Gleeson, T., Reynolds, S.C., _Et al._ 2017: Modelling the role of groundwater hydro-refugia in East African hominin evolution and dispersal. _Nature Communications 8. 15696._ doi:10.1038/ncomms15696.
+
+* Davies, B. and Bickler, S. H. 2015: Sailing the Simulated Seas: A New Simulation for Evaluating Prehistoric Seafaring. In: Across Space and Time. (Amsterdam University Press. Amsterdam) [Online](https://www.researchgate.net/publication/308100959_Sailing_the_Simulated_Seas_a_New_Simulation_for_Evaluating_Prehistoric_Seafaring)
+ 
+* Davies, B., Holdaway,  S. J. and Fanning, P. C. 2015: Modelling the Palimpsest: An Exploratory Agent-Based Model of Surface Archaeological Deposit Formation in a Fluvial Arid Australian Landscape. _The Holocene October 19: 1–14._ [Online](http://journals.sagepub.com/doi/abs/10.1177/0959683615609754) doi:10.1177/0959683615609754.
 
 * Dean, J. S., Gumerman, G. J. and Epstein, J. M. _Et al._ 1999: Unterstanding Anasazi Culture Change Through Agent-Based Modelling. In: Dynamics in Human and PrimateSocieties. Agent-Based Modeling of social and spatial processes. (Oxford University press Oxford) 179-207.
 
@@ -118,6 +145,8 @@ Whitley, T. G. 2016: Archaeological Simulation and the Testing Paradigm. In: Unc
 
 * Graham, S. and Weingart, S. 2015: The Equifinality of Archaeological Networks: an Agent-Based Exploratory Lab Approach. _Journal of Archaeological Method and Theory 22. 248-274._ [Abstract](https://link.springer.com/article/10.1007/s10816-014-9230-y)
 
+* Griffith, C.S., Long, B.L., Sept J.M. 2010: HOMINIDS: An agent-based spatial simulation model to evaluate behavioral patterns of early Pleistocene hominids. _Ecological Modelling 221(5). 738-760._ doi:10.1016/j.ecolmodel.2009.11.009.
+
 * Griffin, A. F. and Stanish, C. 2007: An Agent-based Model of Prehistoric Settlement Patterns and Political Consolidation in the Lake Titicaca Basin of Peru and Bolivia. _Structure and Dynamics, 2(2)._ [Online](http://escholarship.org/uc/item/2zd1t887#page-38)
 
 * Heckbert, S. 2013: MayaSim: An Agent-Based Model of the Ancient Maya Social-Ecological System. _Journal of Artificial Societies and Social Simulation 16 (4). 11._ [Online](http://jasss.soc.surrey.ac.uk/16/4/11.html)
@@ -126,9 +155,13 @@ Whitley, T. G. 2016: Archaeological Simulation and the Testing Paradigm. In: Unc
 
 * Kowarik, K., Reschreiter H., and Wurzer G. 2010: Modeling a mine. Agentbased Modeling, Systemdynamics and Experimental Archaeology applied to the Bronze Age Saltmines of Hallstatt. In: Mining in European History. SFB HiMAT (Innsbruck), 44-53. [Online](https://www.academia.edu/6325518/K._Kowarik_H._Reschreiter_and_G._Wurzer_2010_Modeling_a_mine._Agentbased_Modeling_Systemdynamics_and_Experimental_Archaeology_applied_to_the_Bronze_Age_Saltmines_of_Hallstatt._In_Mining_in_European_History._SFB_HiMAT_44-53)
 
+* Ortega, D., Ibañez, J.J., Khalidi, L. and Méndez, V. 2014: Towards a Multi-Agent-Based Modelling of Obsidian Exchange in the Neolithic Near East. _Journal of Archaeological Method and Theory 21: 461–85._ doi:10.1007/s10816-013-9196-1.
+
 * Premo, L. S. 2008: Exploring behavioral terrain cognita with archaeological agent-based models. In: BeyondIllustration: 2D and 3D Technologies as Tools ofD iscovery in Archaeology. BAR 1805 (ArchaeoPress Oxford) 46-56.
 
 * Rubio Campillo, X., Cela, J.-M. and Hernàndez Cardona, F. X. 2012: Simulating Archaeologists? Using Agent-Based Modelling to Improve Battlefield Excavations. _Journal of Archaeological Science 39 (2). 347–56._ doi:10.1016/j.jas.2011.09.020.
+
+* Scherjon, F. 2013: SteppingIn - Modern Humans Moving into Europe - Implementation. In: Proceedings of the 40th CAA. (Pallas Publications. Amsterdam) [Online](https://books.google.es/books?id=OJaDAwAAQBAJ&pg=PA112&lpg=PA112&dq=scherjon+stepping+in&source=bl&ots=vrBWWq3mPk&sig=pgdZvjZRUQNxsIK-i3hH924y8oo&hl=en&sa=X&ved=0ahUKEwiAzrqLtvXWAhVIshQKHYmzAUEQ6AEINTAF#v=onepage&q=scherjon%20&f=false)
 
 * Turchin, P., Currie, T. E., Turner, E. A. L. and Gavrilets, S. 2013: War, space, and the evolution of Old World complex societies. _PNAS 111 (41)._ [Abstract](http://www.pnas.org/content/110/41/16384.abstract)
 
