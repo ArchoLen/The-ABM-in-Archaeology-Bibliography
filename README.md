@@ -25,6 +25,7 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 if coding in Netlogo: 
 * Netlogo, ecology: Railsback, S.F. and Grimm, V. 2011: Agent-Based and Individual-Based Modeling: A Practical Introduction. (Princeton University Press. Princeton) [Downloables](http://www.railsback-grimm-abm-book.com)
 
+
 if coding in Python: 
 * Python: Downey, A.B. 2012: Think Complexity. (O’Reilly, Sebastopol, CA). [Online](http://greenteapress.com/complexity)
 
@@ -97,7 +98,7 @@ if coding in Python:
 * Wilensky, U., and William Rand. 2007: Making Models Match: Replicating an Agent-Based Model. _Journal of Artificial Societies and Social Simulation 10 (4)_ [Online](http://jasss.soc.surrey.ac.uk/10/4/2.html)
 
 
-### Case Studys
+### Case Studies
 
 * Angourakis, A., B. Rondelli, S. Stride _Et al._ 2014: Land Use Patterns in Central Asia. Step 1: The Musical Chairs Model. _Journal of Archaeological Method and Theory 21: 405–25._ doi:10.1007/s10816-013-9197-0.
 
@@ -158,6 +159,8 @@ if coding in Python:
 * Ortega, D., Ibañez, J.J., Khalidi, L. and Méndez, V. 2014: Towards a Multi-Agent-Based Modelling of Obsidian Exchange in the Neolithic Near East. _Journal of Archaeological Method and Theory 21: 461–85._ doi:10.1007/s10816-013-9196-1.
 
 * Premo, L. S. 2008: Exploring behavioral terrain cognita with archaeological agent-based models. In: BeyondIllustration: 2D and 3D Technologies as Tools ofD iscovery in Archaeology. BAR 1805 (ArchaeoPress Oxford) 46-56.
+
+* Romanowska, I., Gamble, C., Bullock, S. and Sturt, F. 2017: Dispersal and the Movius Line: Testing the Effect of Dispersal on Population Density through Simulation. _Quaternary International 431. 53–63._ doi: 0.1016/j.quaint.2016.01.016
 
 * Rubio Campillo, X., Cela, J.-M. and Hernàndez Cardona, F. X. 2012: Simulating Archaeologists? Using Agent-Based Modelling to Improve Battlefield Excavations. _Journal of Archaeological Science 39 (2). 347–56._ doi:10.1016/j.jas.2011.09.020.
 
