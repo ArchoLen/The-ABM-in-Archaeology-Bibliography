@@ -2,7 +2,7 @@
 A selected yet comprehensive list of literature and resources on Agent Based Models (ABM) in Archaeology. Maintained and created by Iza Romanowska and Lennart Linde. Know a missing resource or found a broken link? Put up a [pull request](https://help.github.com/articles/creating-a-pull-request/)!
 
 ---
-## The very subjective list of must-reads
+## Our very subjective list of must-reads
 
 
 
@@ -100,9 +100,11 @@ if coding in Python:
 
 ### Case Studies
 
+* Altaweel, M. 2006: Adressing the Structures and Dynamics of Modeled Human Ecologies. In: Digital Discovery: Exploring New Frontiers in Human Heritage. CAA, 30-41. [Online](http://proceedings.caaconference.org/files/2006/CD04_Altaweel_CAA2006.pdf)
+
 * Angourakis, A., B. Rondelli, S. Stride _Et al._ 2014: Land Use Patterns in Central Asia. Step 1: The Musical Chairs Model. _Journal of Archaeological Method and Theory 21: 405–25._ doi:10.1007/s10816-013-9197-0.
 
-* Altaweel, M. 2006: Adressing the Structures and Dynamics of Modeled Human Ecologies. In: Digital Discovery: Exploring New Frontiers in Human Heritage. CAA, 30-41. [Online](http://proceedings.caaconference.org/files/2006/CD04_Altaweel_CAA2006.pdf)
+* Arikan, B. 2017: Crisis in the Highlands. Agent-based Modeling of the Early Bronze Age-I (ca. 4950-4700 cal. BP) Socio-economic Transformations at Arslantepe (Eastern Anatolia) In: Crisis to Collapse The Archaeology of Social Breakdown, AEGIS 11 (UCL Press. Louvain) 235-250.
 
 * Axtell, R. L., Epstein, J. M., Dean, J. S. _Et al._ 2002: Population Growth and Collapse in a Multiagent Model of the Kayenta Anasazi in Long House Valley. _PNAS 99. 7275–79._ [Online](http://www.pnas.org/content/99/suppl_3/7275.full)
 
