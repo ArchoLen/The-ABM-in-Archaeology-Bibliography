@@ -4,9 +4,6 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 ---
 ## Our very subjective list of must-reads
 
-
-
-
 * Axtell, R. L., Epstein, J. M., Dean, J. S. _Et al._ 2002: Population Growth and Collapse in a Multiagent Model of the Kayenta Anasazi in Long House Valley. _PNAS 99. 7275–79._ [Online](http://www.pnas.org/content/99/suppl_3/7275.full)
 
 * Castellani, B. 2012: Complexity map. [Online](http://www.art-sciencefactory.com/complexity-map_feb09.html)
@@ -18,6 +15,8 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 * Lewin, R., 2000: Complexity: Life at the Edge of Chaos. (University of Chicago Press. Chicago) ISBN: 0226476545
 
 * Premo, L.S. 2006: Agent-based models as behavioral laboratories for evolutionary anthropological research. _Arizona Anthropologist 17. 91–113._ [Online](https://arizona.openrepository.com/arizona/bitstream/10150/110026/1/azu_gn1_a785_n17_91_113_v.pdf)
+
+* Grimm, V., Berger, U. and DeAngelis, D. L. _Et al._ 2010: The ODD protocol: A review and first update. _Ecological Modelling 221. 2760–2768._ [Online](http://bio.uib.no/te/papers/Grimm_2010_The_ODD_protocol_.pdf)
 
 * Romanowska, I. 2015: So You Think You Can Model? A Guide to Building and Evaluating Archaeological Simulation Models of Dispersals. _Human Biology Open Access Pre-Prints 79_.
 [Online](http://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1077&context=humbiol_preprints)
