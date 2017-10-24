@@ -103,6 +103,8 @@ if coding in Python:
 
 * Angourakis, A., B. Rondelli, S. Stride _Et al._ 2014: Land Use Patterns in Central Asia. Step 1: The Musical Chairs Model. _Journal of Archaeological Method and Theory 21: 405–25._ doi:10.1007/s10816-013-9197-0.
 
+*Angourakis, A., Santos, J.I., Galán, J.M., Balbo, A.L._2015:  Food for all: An agent-based model to explore the emergence and implications of cooperation for food storage. _Environmental Archaeology 20(4): 349-363_ [Online] (http://www.tandfonline.com/doi/full/10.1179/1749631414Y.0000000041) doi: 10.1179/1749631414Y.0000000041
+
 * Arikan, B. 2017: Crisis in the Highlands. Agent-based Modeling of the Early Bronze Age-I (ca. 4950-4700 cal. BP) Socio-economic Transformations at Arslantepe (Eastern Anatolia) In: Crisis to Collapse The Archaeology of Social Breakdown, AEGIS 11 (UCL Press. Louvain) 235-250.
 
 * Axtell, R. L., Epstein, J. M., Dean, J. S. _Et al._ 2002: Population Growth and Collapse in a Multiagent Model of the Kayenta Anasazi in Long House Valley. _PNAS 99. 7275–79._ [Online](http://www.pnas.org/content/99/suppl_3/7275.full)
