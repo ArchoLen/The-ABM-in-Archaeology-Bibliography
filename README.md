@@ -103,6 +103,8 @@ if coding in Python:
 
 * Angourakis, A., B. Rondelli, S. Stride _Et al._ 2014: Land Use Patterns in Central Asia. Step 1: The Musical Chairs Model. _Journal of Archaeological Method and Theory 21: 405–25._ doi:10.1007/s10816-013-9197-0.
 
+* Angourakis, A., Santos, J.I., Galán, J.M., Balbo, A.L._ 2015:  Food for all: An agent-based model to explore the emergence and implications of cooperation for food storage. _Environmental Archaeology 20(4): 349-363_ [Online](http://www.tandfonline.com/doi/full/10.1179/1749631414Y.0000000041) doi: 10.1179/1749631414Y.0000000041
+
 * Arikan, B. 2017: Crisis in the Highlands. Agent-based Modeling of the Early Bronze Age-I (ca. 4950-4700 cal. BP) Socio-economic Transformations at Arslantepe (Eastern Anatolia) In: Crisis to Collapse The Archaeology of Social Breakdown, AEGIS 11 (UCL Press. Louvain) 235-250.
 
 * Axtell, R. L., Epstein, J. M., Dean, J. S. _Et al._ 2002: Population Growth and Collapse in a Multiagent Model of the Kayenta Anasazi in Long House Valley. _PNAS 99. 7275–79._ [Online](http://www.pnas.org/content/99/suppl_3/7275.full)
@@ -110,6 +112,8 @@ if coding in Python:
 * Barton, C. M., Ullah, I. I., and Bergin, S. 2010: Land Use, Water and Mediterranean Landscapes: Modelling Long-Term Dynamics of Complex Socio-Ecological Systems. _Philosophical Transactions of the Royal Society A 368(1931). 5275–97._ doi: 10.1098/rsta.2010.0193
 
 * Brantingham, P. J. 2003: A Neutral Model of Stone Raw Material Procurement. _American Antiquity 68 (1). 487–509._ doi:10.2307/3557105. [Online](http://paleo.sscnet.ucla.edu/BrantinghamAmAntiq2003.pdf)
+
+* Briz i Godino, I., Santos, J.I., Galán, J.M., Caro, J., Álvarez, M., Zurro, D. 2014: Social Cooperation and Resource Management Dynamics among Late Hunter-Fisher-Gatherer Societies in Tierra del Fuego (South America). _Journal of Archaeological Method and Theory 21(2): 343-363_ [Online](https://link.springer.com/article/10.1007/s10816-013-9194-3) doi: 10.1007/s10816-013-9194-3
 
 * Brughmans, T., and J. Poblome. 2016: Roman Bazaar or Market Economy? Explaining Tableware Distributions in the Roman East through Computational Modelling. _Antiquity 90 (350). 393–408._ doi:10.15184/aqy.2016.35.
 
@@ -164,6 +168,8 @@ if coding in Python:
 * Romanowska, I., Gamble, C., Bullock, S. and Sturt, F. 2017: Dispersal and the Movius Line: Testing the Effect of Dispersal on Population Density through Simulation. _Quaternary International 431. 53–63._ doi: 0.1016/j.quaint.2016.01.016
 
 * Rubio Campillo, X., Cela, J.-M. and Hernàndez Cardona, F. X. 2012: Simulating Archaeologists? Using Agent-Based Modelling to Improve Battlefield Excavations. _Journal of Archaeological Science 39 (2). 347–56._ doi:10.1016/j.jas.2011.09.020.
+
+* Santos, J.I., Pereda, M., Zurro, D., Alvarez, M., Caro, J., Galán, J.M., Briz I Godino, I. 2015:  Effect of Resource Spatial Correlation and Hunter-Fisher-Gatherer Mobility on Social Cooperation in Tierra del Fuego. _PloS One 10(4) e0121888._ [Online](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0121888) doi:10.1371/journal.pone.0121888
 
 * Scherjon, F. 2013: SteppingIn - Modern Humans Moving into Europe - Implementation. In: Proceedings of the 40th CAA. (Pallas Publications. Amsterdam) [Online](https://books.google.es/books?id=OJaDAwAAQBAJ&pg=PA112&lpg=PA112&dq=scherjon+stepping+in&source=bl&ots=vrBWWq3mPk&sig=pgdZvjZRUQNxsIK-i3hH924y8oo&hl=en&sa=X&ved=0ahUKEwiAzrqLtvXWAhVIshQKHYmzAUEQ6AEINTAF#v=onepage&q=scherjon%20&f=false)
 
