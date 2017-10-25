@@ -8,6 +8,8 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 
 * Castellani, B. 2012: Complexity map. [Online](http://www.art-sciencefactory.com/complexity-map_feb09.html)
 
+* Grimm, V., Berger, U. and DeAngelis, D. L. _Et al._ 2010: The ODD protocol: A review and first update. _Ecological Modelling 221. 2760–2768._ [Online](http://bio.uib.no/te/papers/Grimm_2010_The_ODD_protocol_.pdf)
+
 * Kohler, T. A. 2012: Complex Systems and Archaeology. In: Archaeological Theory Today. (Polity Press. Cambridge) [Online](http://www.santafe.edu/media/workingpapers/11-06-023.pdf)
 
 * Lake, M.W. 2014: Trends in Archaeological Simulation. _Journal of Archaeological Method and Theory 21. 258–287._ [Online](https://link.springer.com/article/10.1007/s10816-013-9188-1) doi: 10.1007/s10816-013-9188-1
@@ -15,8 +17,6 @@ A selected yet comprehensive list of literature and resources on Agent Based Mod
 * Lewin, R., 2000: Complexity: Life at the Edge of Chaos. (University of Chicago Press. Chicago) ISBN: 0226476545
 
 * Premo, L.S. 2006: Agent-based models as behavioral laboratories for evolutionary anthropological research. _Arizona Anthropologist 17. 91–113._ [Online](https://arizona.openrepository.com/arizona/bitstream/10150/110026/1/azu_gn1_a785_n17_91_113_v.pdf)
-
-* Grimm, V., Berger, U. and DeAngelis, D. L. _Et al._ 2010: The ODD protocol: A review and first update. _Ecological Modelling 221. 2760–2768._ [Online](http://bio.uib.no/te/papers/Grimm_2010_The_ODD_protocol_.pdf)
 
 * Romanowska, I. 2015: So You Think You Can Model? A Guide to Building and Evaluating Archaeological Simulation Models of Dispersals. _Human Biology Open Access Pre-Prints 79_.
 [Online](http://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1077&context=humbiol_preprints)
@@ -189,7 +189,9 @@ if coding in Python:
 
 * [Python](https://anaconda.org/anaconda/python): A general use programming language. Easy to learn and very flexible. Free and open source. 
 
-* [R](https://www.r-project.org): Popular programming language among archaeologists. Can be used for building agent-based models. Free and open source. 
+* [R](https://www.r-project.org): Popular programming language among archaeologists. Can be used for building agent-based models. Free and open source. R utilizes packages for simulations:
+  * [RNetLogo](http://cran.rstudio.com/web/packages/RNetLogo/index.html) Package that links R and NetLogo. [Introduction as PDF](https://www.jstatsoft.org/article/view/v058i02/v58i02.pdf) & [Quick Tutorial](https://scientificgems.wordpress.com/2014/02/11/the-r-extension-for-netlogo-a-tutorial/)
+  * [simecol](http://cran.rstudio.com/web/packages/simecol/index.html) Package for simulating dynamic systems. It can be used for differential equations, individual-based (or agent-based) and other models as well.
 
 * [Anylogic](https://www.anylogic.com): Simulation platform combining ABM with system-dynamics modelling. Free but limited version available. Not open source.
 
