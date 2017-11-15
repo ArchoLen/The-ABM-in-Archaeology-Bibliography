@@ -109,7 +109,11 @@ if coding in Python:
 
 * Axtell, R. L., Epstein, J. M., Dean, J. S. _Et al._ 2002: Population Growth and Collapse in a Multiagent Model of the Kayenta Anasazi in Long House Valley. _PNAS 99. 7275–79._ [Online](http://www.pnas.org/content/99/suppl_3/7275.full)
 
+* Barcelo, J. A., Del Castillo Bernal, F., del Olmo, R. _Et al._ 2014: Social Interaction in Hunter-Gatherer Societies. Simulating the Consequences of Cooperation and Social Aggregation. _Social Science Computer Review 32(3): 417-436_ [Online](http://journals.sagepub.com/doi/abs/10.1177/0894439313511943) doi: 10.1177/0894439313511943
+
 * Barcelo, J. A., Del Castillo Bernal, F., and Capuzzo, G. _Et al._ 2015: Explaining the Adoption of ‘Innovations’ in Western Europe During Bronze Age: Towards an Agent-Based Simulation In: CAA 2014 - 21st Century Archaeology. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology (Archaeopress. Oxford) 623-630.
+
+* Barcelo, J. A., Del Castillo Bernal, F., del Olmo, R. _Et al._ 2015: Simulating Patagonian Territoriality in Prehistory: Space, Frontiers and Networks among Hunter-Gatherers In: Agent-based Modeling and Simulation in Archaeology (Springer. Berlin) 217–256.
 
 * Barton, C. M., Ullah, I. I., and Bergin, S. 2010: Land Use, Water and Mediterranean Landscapes: Modelling Long-Term Dynamics of Complex Socio-Ecological Systems. _Philosophical Transactions of the Royal Society A 368(1931). 5275–97._ doi: 10.1098/rsta.2010.0193
 
@@ -120,6 +124,8 @@ if coding in Python:
 * Brughmans, T., and J. Poblome. 2016: Roman Bazaar or Market Economy? Explaining Tableware Distributions in the Roman East through Computational Modelling. _Antiquity 90 (350). 393–408._ doi:10.15184/aqy.2016.35.
 
 * Castillo, F. Del and Barceló, J.A. 2009: Why Hunter and Gatherers did not Die More Often? Simulating Prehistoric Decision Making. In: Archaeology in the Digital Era. CAA 2012, 154–163. (Amsterdam University Press, Amsterdam) [Online](https://books.google.es/books?id=OJaDAwAAQBAJ&lpg=PA154&ots=vrBVZp5mOg&dq=Why%20Hunter%20and%20Gatherers%20did%20not%20Die%20More%20Often%3F%20Simulating%20Prehistoric%20Decision%20Making&pg=PA154#v=onepage&q=Why%20Hunter%20and%20Gatherers%20did%20not%20Die%20More%20Often?%20Simulating%20Prehistoric%20Decision%20Making&f=false)
+
+* Castillo, F. Del and Barceló, J.A., Mameli, L, _Et al._ 2014: Modeling Mechanisms of Cultural Diversity and Ethnicity in Hunter–Gatherers _Journal of Archaeological Method and Theory 21(2): 364–384_ [Online](https://link.springer.com/article/10.1007/s10816-013-9199-y) doi: 10.1007/s10816-013-9199-y
 
 * Clark, J. and Crabtree, S. 2015: Examining Social Adaptations in a Volatile Landscape in Northern Mongolia via the Agent-Based Model Ger Grouper. _Land 4. 157–81._ [Online](http://www.mdpi.com/2073-445X/4/1/157/)
 
@@ -164,6 +170,10 @@ if coding in Python:
 * Kowarik, K., Reschreiter H., and Wurzer G. 2010: Modeling a mine. Agentbased Modeling, Systemdynamics and Experimental Archaeology applied to the Bronze Age Saltmines of Hallstatt. In: Mining in European History. SFB HiMAT (Innsbruck), 44-53. [Online](https://www.academia.edu/6325518/K._Kowarik_H._Reschreiter_and_G._Wurzer_2010_Modeling_a_mine._Agentbased_Modeling_Systemdynamics_and_Experimental_Archaeology_applied_to_the_Bronze_Age_Saltmines_of_Hallstatt._In_Mining_in_European_History._SFB_HiMAT_44-53)
 
 * Ortega, D., Ibañez, J.J., Khalidi, L. and Méndez, V. 2014: Towards a Multi-Agent-Based Modelling of Obsidian Exchange in the Neolithic Near East. _Journal of Archaeological Method and Theory 21: 461–85._ doi:10.1007/s10816-013-9196-1.
+
+* Pereda, M., Zurro, D., Santos, J.I., Briz i Godino, I., Álvarez, A., Caro, J., Galán, J.M. 2017:  Emergence and Evolution of Cooperation Under Resource Pressure. _Scientific Reports 7 45574._ [Online](https://www.nature.com/articles/srep45574) doi:10.1038/srep45574
+
+* Poza, D., del Olmo, R. 2014: Agent-Based Modelling and Archaeological Complexity. In: Managing Complexity (Springer) [Online](https://link.springer.com/chapter/10.1007%2F978-3-319-04705-8_36)
 
 * Premo, L. S. 2008: Exploring behavioral terrain cognita with archaeological agent-based models. In: BeyondIllustration: 2D and 3D Technologies as Tools ofD iscovery in Archaeology. BAR 1805 (ArchaeoPress Oxford) 46-56.
 
