@@ -61,6 +61,8 @@ if coding in Python:
 
 * Cegielski, W.H. and Rogers, J.D., 2016: Rethinking the role of Agent-Based Modeling in archaeology. _Journal of Anthropological Archaeology 41. 283–298._ [Paywall](http://www.sciencedirect.com/science/article/pii/S0278416516000118) doi: 10.1016/j.jaa.2016.01.009 
 
+* Graham, S. 2017: On Games that Play Themselves: Agent based models, archaeogaming, and the useful deaths of digital Romans In: The Interactive Past. Archaeology, Heritage, and Video Games. (Sidestone Press. Leiden) 123-132. [Online](https://www.scribd.com/embeds/348615539/content?start_page=1&view_mode=scroll&access_key=key-GKqNp4lJ1kYgWbo34HgU&show_recommendations=false)
+
 * Kohler, T. A. and van der Leeuw, S. E. (Eds.) 2007: The Model-Based Archaeology of Socionatural Systems. (AdvanceResearch Press. Santa Fe) ISBN: 9781930618879
 
 * Kohler, T. A. 2012: Complex Systems and Archaeology. In: Archaeological Theory Today. (Polity Press. Cambridge) [Online](http://www.santafe.edu/media/workingpapers/11-06-023.pdf)
@@ -164,8 +166,6 @@ if coding in Python:
 * Graham, S. 2009: Behaviour Space: Simulating Roman Social Life and Civil Violence. _Digital Studies/Le champ numérique, 1(2)._ [Online](https://www.digitalstudies.org/articles/10.16995/dscn.109/)
 
 * Graham, S. and Steiner, J. 2006: TravellerSim: Growing Settlement Structures and Territories with Agent-Based Modeling In: Digital Discovery: Exploring New Frontiers in Human Heritagge. (CAA) 57-67. [Online](http://proceedings.caaconference.org/files/2006/06_Graham_Steiner_CAA2006.pdf)
-
-* Graham, S. 2017: On Games that Play Themselves: Agent based models, archaeogaming, and the useful deaths of digital Romans In: The Interactive Past. Archaeology, Heritage, and Video Games. (Sidestone Press. Leiden) 123-132. [Online](https://www.scribd.com/embeds/348615539/content?start_page=1&view_mode=scroll&access_key=key-GKqNp4lJ1kYgWbo34HgU&show_recommendations=false)
 
 * Graham, S. and Weingart, S. 2015: The Equifinality of Archaeological Networks: an Agent-Based Exploratory Lab Approach. _Journal of Archaeological Method and Theory 22: 248-274._ [Abstract](https://link.springer.com/article/10.1007/s10816-014-9230-y)
 
