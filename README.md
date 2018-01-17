@@ -165,6 +165,8 @@ if coding in Python:
 
 * Graham, S. and Steiner, J. 2006: TravellerSim: Growing Settlement Structures and Territories with Agent-Based Modeling In: Digital Discovery: Exploring New Frontiers in Human Heritagge. (CAA) 57-67. [Online](http://proceedings.caaconference.org/files/2006/06_Graham_Steiner_CAA2006.pdf)
 
+* Graham, S. 2017: On Games that Play Themselves: Agent based models, archaeogaming, and the useful deaths of digital Romans In: The Interactive Past. Archaeology, Heritage, and Video Games. (Sidestone Press. Leiden) 123-132. [Online](https://www.scribd.com/embeds/348615539/content?start_page=1&view_mode=scroll&access_key=key-GKqNp4lJ1kYgWbo34HgU&show_recommendations=false)
+
 * Graham, S. and Weingart, S. 2015: The Equifinality of Archaeological Networks: an Agent-Based Exploratory Lab Approach. _Journal of Archaeological Method and Theory 22: 248-274._ [Abstract](https://link.springer.com/article/10.1007/s10816-014-9230-y)
 
 * Griffith, C.S., Long, B.L., Sept J.M. 2010: HOMINIDS: An agent-based spatial simulation model to evaluate behavioral patterns of early Pleistocene hominids. _Ecological Modelling 221(5). 738-760._ doi:10.1016/j.ecolmodel.2009.11.009.
