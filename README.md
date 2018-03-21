@@ -213,6 +213,8 @@ if coding in Python:
 
 * [RePast](https://repast.github.io/): Is a collection of modeling and simulation platforms that utilize Java and C++.
 
+* [GAMA](http://gama-platform.org/): Is an agent-based modeling and simulation environment, providing an user-friendly modeling language. It is recognized for its easiness to integrate GIS data in models and be used for big and complex models.
+
 * [Python](https://anaconda.org/anaconda/python): A general use programming language. Easy to learn and very flexible. Free and open source. 
 
 * [R](https://www.r-project.org): Popular programming language among archaeologists. Can be used for building agent-based models. Free and open source. R utilizes packages for simulations:
