@@ -100,7 +100,7 @@ if coding in Python:
 
 * Moss, S. 2008: Alternative Approaches to the Empirical Validation of Agent-Based Models. _Journal of Artificial Societies and Social Simulation 11 (15): 16._ [Online](http://jasss.soc.surrey.ac.uk/11/1/5.html)
 
-* Wilensky, U., and William Rand. 2007: Making Models Match: Replicating an Agent-Based Model. _Journal of Artificial Societies and Social Simulation 10 (4)_ [Online](http://jasss.soc.surrey.ac.uk/10/4/2.html)
+* Wilensky, U., and  Rand, W. 2007: Making Models Match: Replicating an Agent-Based Model. _Journal of Artificial Societies and Social Simulation 10 (4)_ [Online](http://jasss.soc.surrey.ac.uk/10/4/2.html)
 
 
 ### Case Studies
@@ -134,6 +134,8 @@ if coding in Python:
 * Cioffi-Revilla, C., Honeychurch, W. and Rogers, J.D. 2015: MASON Hierarchies: A Long-Range Agent Model of Power, Conflict, and Environment in Inner Asia. In: The Complexity of Interaction Along the Eurasian Steppe Zone in the First Millennium CE. (Bonn University Press. Bonn) 89-113. 
 
 * Castillo, F. Del and Barceló, J.A. 2009: Why Hunter and Gatherers did not Die More Often? Simulating Prehistoric Decision Making. In: Archaeology in the Digital Era. CAA 2012. (Amsterdam University Press. Amsterdam) 154–163. [Online](https://books.google.es/books?id=OJaDAwAAQBAJ&lpg=PA154&ots=vrBVZp5mOg&dq=Why%20Hunter%20and%20Gatherers%20did%20not%20Die%20More%20Often%3F%20Simulating%20Prehistoric%20Decision%20Making&pg=PA154#v=onepage&q=Why%20Hunter%20and%20Gatherers%20did%20not%20Die%20More%20Often?%20Simulating%20Prehistoric%20Decision%20Making&f=false)
+
+* Callegari, S., J. D. Weissmann, N. Tkachenko, _Et al._ 2013: An Agent-Based Model of Human Dispersals At a Global Scale _Advances in Complex Systems 16. 1350023._ doi:10.1142/S0219525913500239.
 
 * Castillo, F. Del and Barceló, J.A., Mameli, L, _Et al._ 2014: Modeling Mechanisms of Cultural Diversity and Ethnicity in Hunter–Gatherers _Journal of Archaeological Method and Theory 21(2): 364–384_ [Online](https://link.springer.com/article/10.1007/s10816-013-9199-y) doi: 10.1007/s10816-013-9199-y
 
@@ -173,11 +175,15 @@ if coding in Python:
 
 * Griffin, A. F. and Stanish, C. 2007: An Agent-based Model of Prehistoric Settlement Patterns and Political Consolidation in the Lake Titicaca Basin of Peru and Bolivia. _Structure and Dynamics, 2(2)._ [Online](http://escholarship.org/uc/item/2zd1t887#page-38)
 
-* Heckbert, S. 2013: MayaSim: An Agent-Based Model of the Ancient Maya Social-Ecological System. _Journal of Artificial Societies and Social Simulation 16 (4): 11._ [Online](http://jasss.soc.surrey.ac.uk/16/4/11.html)
+* Heckbert, S. 2013: MayaSim: An Agent-Based Model of the Ancient Maya Social-Ecological System. _Journal of Artificial Societies and Social Simulation 16 (4). 11._ [Online](http://jasss.soc.surrey.ac.uk/16/4/11.html)
 
 * Janssen, M. A. 2009: Understanding ArtificialAnasazi. _Journal of Artificial Societies and Social Simulation 12(4): 13._ [Online](http://jasss.soc.surrey.ac.uk/12/4/13.html)
 
-* Kowarik, K., Reschreiter H., and Wurzer G. 2010: Modeling a mine. Agentbased Modeling, Systemdynamics and Experimental Archaeology applied to the Bronze Age Saltmines of Hallstatt. In: Mining in European History. (SFB HiMAT Innsbruck) 44-53. [Online](https://www.academia.edu/6325518/K._Kowarik_H._Reschreiter_and_G._Wurzer_2010_Modeling_a_mine._Agentbased_Modeling_Systemdynamics_and_Experimental_Archaeology_applied_to_the_Bronze_Age_Saltmines_of_Hallstatt._In_Mining_in_European_History._SFB_HiMAT_44-53)
+* Kowarik, K., Reschreiter H., and Wurzer G. 2010: Modeling a mine. Agentbased Modeling, System dynamics and Experimental Archaeology applied to the Bronze Age Saltmines of Hallstatt. In: Mining in European History. (SFB HiMAT Innsbruck) 44-53. [Online](https://www.academia.edu/6325518/K._Kowarik_H._Reschreiter_and_G._Wurzer_2010_Modeling_a_mine._Agentbased_Modeling_Systemdynamics_and_Experimental_Archaeology_applied_to_the_Bronze_Age_Saltmines_of_Hallstatt._In_Mining_in_European_History._SFB_HiMAT_44-53)
+
+* Lake, M. 2000: MAGICAL Computer Simulation of Mesolithic Foraging. In:  Dynamics in Human and Primate Societies: Agent-Based Modeling of Social and Spatial Processes. (Oxford University Press) 107–143.[Online](https://books.google.es/books?hl=en&lr=&id=-WHnCwAAQBAJ&oi=fnd&pg=PA107&dq=MAGICAL+Computer+Simulation+of+Mesolithic+Foraging&ots=Rt2vOITlEQ&sig=QJ6HkjokUYgWGhIjaqwh1MybmRM#v=onepage&q=MAGICAL%20Computer%20Simulation%20of%20Mesolithic%20Foraging&f=false)
+
+* Lake, M. 2001: The use of pedestrian modelling in archaeology, with an example from the study of cultural learning. _Environment and Planning B: Planning and Design 28(3). 385–403._ doi:10.1068/b2726.[Online](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.456.5468&rep=rep1&type=pdf)
 
 * Ortega, D., Ibañez, J.J., Khalidi, L. and Méndez, V. 2014: Towards a Multi-Agent-Based Modelling of Obsidian Exchange in the Neolithic Near East. _Journal of Archaeological Method and Theory 21: 461–85._ doi:10.1007/s10816-013-9196-1.
 
