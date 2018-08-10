@@ -191,7 +191,9 @@ if coding in Python:
 
 * Lake, M. 2001: The use of pedestrian modelling in archaeology, with an example from the study of cultural learning. _Environment and Planning B: Planning and Design 28(3). 385–403._ doi:10.1068/b2726.[Online](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.456.5468&rep=rep1&type=pdf)
 
-* Mesoudi, A.,   O’Brien, M. J. 2008: The Cultural Transmission of Great Basin Projectile-Point Technology II: An Agent-Based Computer Simulation. _American Antiquity 73(4):627–644._ [Online](https://static1.squarespace.com/static/5796624746c3c4b7ae13b2b2/t/57a1f1c8e6f2e155f6e9a843/1470230985519/Mesoudi_OBrien_AmAnt_2008b.pdf)
+* Mesoudi, A.,   O’Brien, M. J. 2008: The Cultural Transmission of Great Basin Projectile-Point Technology II: An Agent-Based Computer Simulation. _American Antiquity 73(4). 627–644._ [Online](https://static1.squarespace.com/static/5796624746c3c4b7ae13b2b2/t/57a1f1c8e6f2e155f6e9a843/1470230985519/Mesoudi_OBrien_AmAnt_2008b.pdf)
+
+* Morrison, A. E., Allen, M. S. 2017: Agent-based modelling, molluscan population dynamics, and archaeomalacology. _Quaternary International 427. 170–183._ doi:10.1016/j.quaint.2015.09.004. [Online](https://s3.amazonaws.com/academia.edu.documents/40109077/Morrison_Allen_2015-QI.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1533913898&Signature=53CfcineEJnfTxKDqHukb%2BOy2Zw%3D&response-content-disposition=inline%3B%20filename%3DAgent_Based_Modelling_Molluscan_Populati.pdf) 
 
 * Ortega, D., Ibañez, J.J., Khalidi, L. and Méndez, V. 2014: Towards a Multi-Agent-Based Modelling of Obsidian Exchange in the Neolithic Near East. _Journal of Archaeological Method and Theory 21. 461–85._ doi:10.1007/s10816-013-9196-1.
 
