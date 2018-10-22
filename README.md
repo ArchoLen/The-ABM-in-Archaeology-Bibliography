@@ -149,6 +149,8 @@ if coding in Python:
 
 * Crabtree, S. 2016: Simulating Littoral Trade: Modeling the Trade of Wine in the Bronze to Iron Age Transition in Southern France. _Land 5 (1). 5._ [Online](www.mdpi.com/2073-445X/5/1/5/pdf) doi:10.3390/land5010005.
 
+* Crabtree, S. A., Bocinsky, R. K., Hooper, P. L., Ryan, S. C., and Kohler, T. A. 2017: How to make a polity (in the central mesa verde region). _American Antiquity 82(1). 71–95._ doi:10.1017/aaq.2016.18.
+
 * Crema, E. R. 2014: A Simulation Model of Fission – Fusion Dynamics and Long-Term Settlement Change. _Journal of Archaeological Method and Theory 21. 385–404._ doi:10.1007/s10816-013-9185-4.
 
 * Cuthbert, M.O., Gleeson, T., Reynolds, S.C., _Et al._ 2017: Modelling the role of groundwater hydro-refugia in East African hominin evolution and dispersal. _Nature Communications 8. 15696._ doi:10.1038/ncomms15696.
