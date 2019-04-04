@@ -111,6 +111,8 @@ if coding in Python:
 
 * Altaweel, M. 2006: Adressing the Structures and Dynamics of Modeled Human Ecologies. In: Digital Discovery: Exploring New Frontiers in Human Heritage. CAA, 30-41. [Online](http://proceedings.caaconference.org/files/2006/CD04_Altaweel_CAA2006.pdf)
 
+* Altaweel, M. and Wu, Y. 2010: Route Selection and Pedestrian Traffic: Applying an Intergrated Modelling Approach to Understanding Movement. _Structure and Dynamics 4 (2)._ [Online](https://escholarship.org/uc/item/6898p5vm) 
+
 * Axtell, R. L., Epstein, J. M., Dean, J. S. _Et al._ 2002: Population Growth and Collapse in a Multiagent Model of the Kayenta Anasazi in Long House Valley. _PNAS 99. 7275–79._ [Online](http://www.pnas.org/content/99/suppl_3/7275.full)
 
 * Angourakis, A., Rondelli, B., Stride, S.  _Et al._ 2014: Land Use Patterns in Central Asia. Step 1: The Musical Chairs Model. _Journal of Archaeological Method and Theory 21. 405–25._ doi:10.1007/s10816-013-9197-0.
@@ -128,6 +130,8 @@ if coding in Python:
 * Barcelo, J. A., Del Castillo Bernal, F., del Olmo, R. _Et al._ 2015: Simulating Patagonian Territoriality in Prehistory: Space, Frontiers and Networks among Hunter-Gatherers In: Agent-based Modeling and Simulation in Archaeology (Springer. Berlin) 217–256.
 
 * Barton, C. M., Ullah, I. I., and Bergin, S. 2010: Land Use, Water and Mediterranean Landscapes: Modelling Long-Term Dynamics of Complex Socio-Ecological Systems. _Philosophical Transactions of the Royal Society A 368(1931). 5275–97._ doi: 10.1098/rsta.2010.0193
+
+* Bentley, R. A., Lake, M. W. and Shennan, S. J. 2005: Specialisation and wealth inequality in a model of a clustered economic network. _Journal of Archaeological Science 32. 1346-56._ doi: 10.1016/j.jas.2005.03.008
 
 * Brantingham, P. J. 2003: A Neutral Model of Stone Raw Material Procurement. _American Antiquity 68 (1). 487–509._ doi:10.2307/3557105. [Online](http://paleo.sscnet.ucla.edu/BrantinghamAmAntiq2003.pdf)
 
@@ -204,6 +208,8 @@ if coding in Python:
 * Poza, D., del Olmo, R. 2014: Agent-Based Modelling and Archaeological Complexity. In: Managing Complexity (Springer) [Online](https://link.springer.com/chapter/10.1007%2F978-3-319-04705-8_36)
 
 * Premo, L. S. 2008: Exploring behavioral terrain cognita with archaeological agent-based models. In: BeyondIllustration: 2D and 3D Technologies as Tools ofD iscovery in Archaeology. BAR 1805 (ArchaeoPress Oxford) 46-56.
+
+* Premo, L. S. and Kuhn, S. L. 2010: Modeling Effects of Local Extinctions on Culture Change and Diversity in the Paleolithic. _PLoS One 5 (12). e15582_ [Online](https://doi.org/10.1371/journal.pone.0015582)
 
 * Romanowska, I., Gamble, C., Bullock, S. and Sturt, F. 2017: Dispersal and the Movius Line: Testing the Effect of Dispersal on Population Density through Simulation. _Quaternary International 431. 53–63._ doi: 0.1016/j.quaint.2016.01.016
 
