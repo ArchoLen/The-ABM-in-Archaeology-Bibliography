@@ -111,7 +111,7 @@ if coding in Python:
 
 * Altaweel, M. 2006: Adressing the Structures and Dynamics of Modeled Human Ecologies. In: Digital Discovery: Exploring New Frontiers in Human Heritage. CAA, 30-41. [Online](http://proceedings.caaconference.org/files/2006/CD04_Altaweel_CAA2006.pdf)
 
-* Altaweel, M. and Wu, Y. 2010: Route Selection and Pedestrian Traffic: Applying an Intergrated Modelling Approach to Understanding Movement. _Structure and Dynamics 4 (2)._ [Online](https://escholarship.org/uc/item/6898p5vm) 
+* Altaweel, M. and Wu, Y. 2010: Route Selection and Pedestrian Traffic: Applying an Integrated Modeling Approach to Understanding Movement. _Structure and Dynamics 4 (2)._ [Online](https://escholarship.org/uc/item/6898p5vm) 
 
 * Axtell, R. L., Epstein, J. M., Dean, J. S. _Et al._ 2002: Population Growth and Collapse in a Multiagent Model of the Kayenta Anasazi in Long House Valley. _PNAS 99. 7275–79._ [Online](http://www.pnas.org/content/99/suppl_3/7275.full)
 
@@ -131,7 +131,7 @@ if coding in Python:
 
 * Barton, C. M., Ullah, I. I., and Bergin, S. 2010: Land Use, Water and Mediterranean Landscapes: Modelling Long-Term Dynamics of Complex Socio-Ecological Systems. _Philosophical Transactions of the Royal Society A 368(1931). 5275–97._ doi: 10.1098/rsta.2010.0193
 
-* Bentley, R. A., Lake, M. W. and Shennan, S. J. 2005: Specialisation and wealth inequality in a model of a clustered economic network. _Journal of Archaeological Science 32. 1346-56._ doi: 10.1016/j.jas.2005.03.008
+* Bentley, R. A., Lake, M. W. and Shennan, S. J. 2005: Specialisation and Wealth Inequality in a Model of a Clustered Economic Network. _Journal of Archaeological Science 32. 1346-56._ doi: 10.1016/j.jas.2005.03.008
 
 * Brantingham, P. J. 2003: A Neutral Model of Stone Raw Material Procurement. _American Antiquity 68 (1). 487–509._ doi:10.2307/3557105. [Online](http://paleo.sscnet.ucla.edu/BrantinghamAmAntiq2003.pdf)
 
