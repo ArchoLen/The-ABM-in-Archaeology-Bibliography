@@ -61,6 +61,8 @@ if coding in Python:
 
 * Cegielski, W.H. and Rogers, J.D., 2016: Rethinking the role of Agent-Based Modeling in archaeology. _Journal of Anthropological Archaeology 41. 283–298._ [Paywall](http://www.sciencedirect.com/science/article/pii/S0278416516000118) doi: 10.1016/j.jaa.2016.01.009 
 
+* Costopoulos, A. and Lake, M. W. (Eds.) 2010: Simulating Change: Archaeology into the Twenty-First Century. (University of Utah Press. Salt Lake City) ISBN: 930-1-60781-036-0
+
 * Graham, S. 2017: On Games that Play Themselves: Agent based models, archaeogaming, and the useful deaths of digital Romans In: The Interactive Past. Archaeology, Heritage, and Video Games. (Sidestone Press. Leiden) 123-132. [Online](https://www.scribd.com/embeds/348615539/content?start_page=1&view_mode=scroll&access_key=key-GKqNp4lJ1kYgWbo34HgU&show_recommendations=false)
 
 * Kohler, T. A. and van der Leeuw, S. E. (Eds.) 2007: The Model-Based Archaeology of Socionatural Systems. (AdvanceResearch Press. Santa Fe) ISBN: 9781930618879
@@ -94,6 +96,8 @@ if coding in Python:
 * Python: Downey, A.B. 2012: Think Complexity. (O’Reilly. Sebastopol, CA). [Online](http://greenteapress.com/complexity)
 
 ### Verification, Validation & Documentation
+* Altaweel, M., Alessa, M. N., Kliskey, A. _Et al._ 2010: A Framework to Structure Agent-Based Modeling Data for Social-Ecological Systems. _Structure and Dynamics 4 (1)._ [Online](https://escholarship.org/uc/item/7kw1h48n)
+
 * Brouwer Burg, M., Peeters, H. and Lovis, W. A. (Eds.) 2016: Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling. (Springer. Berlin/New York) ISBN: 9783319278315
 
 * Bullock, S. 2014: Levins and the Lure of Artificial Worlds. _The Monist 97 (3): 301–20._ [Online](http://eprints.soton.ac.uk/361206/)
@@ -157,6 +161,8 @@ if coding in Python:
 
 * Crema, E. R. 2014: A Simulation Model of Fission – Fusion Dynamics and Long-Term Settlement Change. _Journal of Archaeological Method and Theory 21. 385–404._ doi:10.1007/s10816-013-9185-4.
 
+* Crema, E. R. and Lake, M. W. 2015: Cultural Incubators and Spread of Innovation. _Human Biology 87 (3). 151-68._ [Online](http://discovery.ucl.ac.uk/1473411/)
+
 * Cuthbert, M.O., Gleeson, T., Reynolds, S.C., _Et al._ 2017: Modelling the role of groundwater hydro-refugia in East African hominin evolution and dispersal. _Nature Communications 8. 15696._ doi:10.1038/ncomms15696.
 
 * Davies, B. and Bickler, S. H. 2015: Sailing the Simulated Seas: A New Simulation for Evaluating Prehistoric Seafaring. In: Across Space and Time. (Amsterdam University Press. Amsterdam) [Online](https://www.researchgate.net/publication/308100959_Sailing_the_Simulated_Seas_a_New_Simulation_for_Evaluating_Prehistoric_Seafaring)
@@ -183,6 +189,8 @@ if coding in Python:
 
 * Graham, S. and Weingart, S. 2015: The Equifinality of Archaeological Networks: an Agent-Based Exploratory Lab Approach. _Journal of Archaeological Method and Theory 22. 248-274._ [Abstract](https://link.springer.com/article/10.1007/s10816-014-9230-y)
 
+* Gravel-Miguel, C. and Wren, C. D. 2018: Agent-based least-cost path analysis and the diffusion of Cantabrian Lower Magdalenian engraved scapulae. _Journal of Archaeological Science 99. 1-9._ doi: 10.1016/j.jas.2018.08.014.
+
 * Griffith, C.S., Long, B.L., Sept J.M. 2010: HOMINIDS: An agent-based spatial simulation model to evaluate behavioral patterns of early Pleistocene hominids. _Ecological Modelling 221(5). 738-760._ doi:10.1016/j.ecolmodel.2009.11.009.
 
 * Griffin, A. F. and Stanish, C. 2007: An Agent-based Model of Prehistoric Settlement Patterns and Political Consolidation in the Lake Titicaca Basin of Peru and Bolivia. _Structure and Dynamics, 2(2)._ [Online](http://escholarship.org/uc/item/2zd1t887#page-38)
@@ -198,6 +206,8 @@ if coding in Python:
 * Lake, M. 2001: The use of pedestrian modelling in archaeology, with an example from the study of cultural learning. _Environment and Planning B: Planning and Design 28(3). 385–403._ doi:10.1068/b2726.[Online](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.456.5468&rep=rep1&type=pdf)
 
 * Mesoudi, A.,   O’Brien, M. J. 2008: The Cultural Transmission of Great Basin Projectile-Point Technology II: An Agent-Based Computer Simulation. _American Antiquity 73(4). 627–644._ [Online](https://static1.squarespace.com/static/5796624746c3c4b7ae13b2b2/t/57a1f1c8e6f2e155f6e9a843/1470230985519/Mesoudi_OBrien_AmAnt_2008b.pdf)
+
+* Mithen, S. and Reed, M. 2002: Stepping out: a computer simulation of hominid dispersal from Africa. _Journal of Human Evolution 43 (4). 433-62._ doi: 10.1006/jhev.2002.0584
 
 * Morrison, A. E., Allen, M. S. 2017: Agent-based modelling, molluscan population dynamics, and archaeomalacology. _Quaternary International 427. 170–183._ doi:10.1016/j.quaint.2015.09.004. [Online](https://s3.amazonaws.com/academia.edu.documents/40109077/Morrison_Allen_2015-QI.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1533913898&Signature=53CfcineEJnfTxKDqHukb%2BOy2Zw%3D&response-content-disposition=inline%3B%20filename%3DAgent_Based_Modelling_Molluscan_Populati.pdf) 
 
