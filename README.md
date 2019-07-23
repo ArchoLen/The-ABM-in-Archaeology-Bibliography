@@ -189,6 +189,8 @@ if coding in Python:
 
 * Graham, S. and Weingart, S. 2015: The Equifinality of Archaeological Networks: an Agent-Based Exploratory Lab Approach. _Journal of Archaeological Method and Theory 22. 248-274._ [Abstract](https://link.springer.com/article/10.1007/s10816-014-9230-y)
 
+* Gravel-Miguel, C., 2018: The Magdalenian Environmental and Social Contexts of Le Placard, In: The grotte du Placard at 150. New Considerations on an Exceptional Prehistoric Site. (Archaeopress  Oxford) 157-169.
+
 * Gravel-Miguel, C. and Wren, C. D. 2018: Agent-based least-cost path analysis and the diffusion of Cantabrian Lower Magdalenian engraved scapulae. _Journal of Archaeological Science 99. 1-9._ doi: 10.1016/j.jas.2018.08.014.
 
 * Griffith, C.S., Long, B.L., Sept J.M. 2010: HOMINIDS: An agent-based spatial simulation model to evaluate behavioral patterns of early Pleistocene hominids. _Ecological Modelling 221(5). 738-760._ doi:10.1016/j.ecolmodel.2009.11.009.
@@ -232,6 +234,8 @@ if coding in Python:
 * Santos, J.I., Pereda, M., Zurro, D., Alvarez, M., Caro, J., Galán, J.M., Briz I Godino, I. 2015:  Effect of Resource Spatial Correlation and Hunter-Fisher-Gatherer Mobility on Social Cooperation in Tierra del Fuego. _PloS One 10(4). e0121888._ [Online](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0121888) doi:10.1371/journal.pone.0121888
 
 * Scherjon, F. 2013: SteppingIn - Modern Humans Moving into Europe - Implementation. In: Proceedings of the 40th CAA. (Pallas Publications. Amsterdam) [Online](https://books.google.es/books?id=OJaDAwAAQBAJ&pg=PA112&lpg=PA112&dq=scherjon+stepping+in&source=bl&ots=vrBWWq3mPk&sig=pgdZvjZRUQNxsIK-i3hH924y8oo&hl=en&sa=X&ved=0ahUKEwiAzrqLtvXWAhVIshQKHYmzAUEQ6AEINTAF#v=onepage&q=scherjon%20&f=false)
+
+* Snitker, G., 2018: Identifying natural and anthropogenic drivers of prehistoric fire regimes through simulated charcoal records. _Journal of Archaeological Science 95. 1-15._ doi:10.1016/j.jas.2018.04.009 [Online](https://linkinghub.elsevier.com/retrieve/pii/S0305440318301924)
 
 * Snyder, J.R., Dilaver, O., Stephenson, L.C., Mackie, J.E., Smith., S.D. 2017: Agent-Based Modelling and Construction – Reconstructing Antiquity’s Largest Infrastructure Project. _Construction Management and Economics 36 (6). 313-327._ [Paywall](https://www.tandfonline.com/doi/abs/10.1080/01446193.2017.1403639)  doi:10.1080/01446193.2017.1403639.
 
