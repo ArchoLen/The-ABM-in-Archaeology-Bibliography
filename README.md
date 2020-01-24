@@ -63,6 +63,10 @@ if coding in Python:
 
 * Costopoulos, A. and Lake, M. W. (Eds.) 2010: Simulating Change: Archaeology into the Twenty-First Century. (University of Utah Press. Salt Lake City) ISBN: 930-1-60781-036-0
 
+* Crabtree, S. A., Harris, K., Davies, B. and Romanowska, I. 2019: Outreach in Archaeology with Agent-Based Modeling: Part 3 of 3. _Advances in Archaeological Practice 7 (2): 194–202._ [Online](https://osf.io/preprints/socarxiv/9uw6j/) doi: 10.1017/aap.2019.4
+
+* Davies, B., Romanowska, I., Harris, K. and Crabtree, S. A. 2019: Combining Geographic Information Systems and Agent-Based Models in Archaeology: Part 2 of 3. _Advances in Archaeological Practice 7 (2): 185–93._ [Online](https://osf.io/preprints/socarxiv/fphcw/) doi:10.1017/aap.2019.5
+
 * Graham, S. 2017: On Games that Play Themselves: Agent based models, archaeogaming, and the useful deaths of digital Romans In: The Interactive Past. Archaeology, Heritage, and Video Games. (Sidestone Press. Leiden) 123-132. [Online](https://www.scribd.com/embeds/348615539/content?start_page=1&view_mode=scroll&access_key=key-GKqNp4lJ1kYgWbo34HgU&show_recommendations=false)
 
 * Kohler, T. A. and van der Leeuw, S. E. (Eds.) 2007: The Model-Based Archaeology of Socionatural Systems. (AdvanceResearch Press. Santa Fe) ISBN: 9781930618879
@@ -78,6 +82,8 @@ if coding in Python:
 * Rogers, J.D. 2017: Dynamic Trajectories, Adaptive Cycles, and Complexity in Culture Change. _Journal of Archaeological Method and Theory 24. 1326-1355._ [Online](http://link.springer.com/article/10.1007/s10816-017-9314-6) doi: 10.1007/s10816-017-9314-6
 
 * Rogers, J.D. and Cegielski, W. H. 2017: Building a better past with the help of agent-based modeling.  _PNAS 114 (49). 12841-12844._ [Online](www.pnas.org/cgi/doi/10.1073/pnas.1718277114) doi: 10.1073/pnas.1718277114
+
+* Romanowska, I., Crabtree, S. A., Harris, K. and Davies, B. 2019: Agent-Based Modeling for Archaeologists: Part 1 of 3. _Advances in Archaeological Practice 7 (2): 178–84.__ [Online](https://osf.io/preprints/socarxiv/3gwdn/) doi: 10.1017/aap.2019.6 
 
 * Romanowska, I. 2015: So You Think You Can Model? A Guide to Building and Evaluating Archaeological Simulation Models of Dispersals. _Human Biology Open Access Pre-Prints 79_.
 [Online](http://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1077&context=humbiol_preprints)
