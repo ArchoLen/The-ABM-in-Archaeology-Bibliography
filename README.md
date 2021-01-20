@@ -38,7 +38,7 @@ if coding in Python:
 ### Introductions
 #### General Introduction to complexity science and simulation
 
-* Abar, A., Theodoropoulos, G., Lemarinier, P., O’Hare, G., (2017): Agent Based Modelling and Simulation tools: A review of the state-of-art software,
+* Abar, A., Theodoropoulos, G., Lemarinier, P., O’Hare, G. 2017: Agent Based Modelling and Simulation tools: A review of the state-of-art software,
 _Computer Science Review_, Volume 24. 13-33. [Online](http://www.sciencedirect.com/science/article/pii/S1574013716301198) doi: 10.1016/j.cosrev.2017.03.001.
 
 * Castellani, B. 2012: Complexity map. [Online](http://www.art-sciencefactory.com/complexity-map_feb09.html)
@@ -70,7 +70,7 @@ _Computer Science Review_, Volume 24. 13-33. [Online](http://www.sciencedirect.c
 
 * Crabtree, S. A., Harris, K., Davies, B. and Romanowska, I. 2019: Outreach in Archaeology with Agent-Based Modeling: Part 3 of 3. _Advances in Archaeological Practice 7 (2). 194–202._ [Online](https://osf.io/preprints/socarxiv/9uw6j/) doi: 10.1017/aap.2019.4
 
-* Craenen, B., Theodoropoulos, G., Suryanarayanan, V., Gaffney, V., Murgatroyd, P., Haldon.J. 2010: Medieval military logistics: a case for distributed agent-based simulation. _Proceedings of the 3rd International ICST Conference on Simulation Tools and Techniques (SIMUTools '10)_. ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), Brussels, BEL, Article 6. 1–8. [Online](https://dl.acm.org/doi/10.4108/ICST.SIMUTOOLS2010.8737) doi: 10.4108/ICST.SIMUTOOLS2010.8737
+* Craenen, B., Theodoropoulos, G., Suryanarayanan, V., Gaffney, V., Murgatroyd, P., Haldon, J. 2010: Medieval military logistics: a case for distributed agent-based simulation. _Proceedings of the 3rd International ICST Conference on Simulation Tools and Techniques (SIMUTools '10)_. ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), Brussels, BEL, Article 6. 1–8. [Online](https://dl.acm.org/doi/10.4108/ICST.SIMUTOOLS2010.8737) doi: 10.4108/ICST.SIMUTOOLS2010.8737
 
 * Davies, B., Romanowska, I., Harris, K. and Crabtree, S. A. 2019: Combining Geographic Information Systems and Agent-Based Models in Archaeology: Part 2 of 3. _Advances in Archaeological Practice 7 (2). 185–93._ [Online](https://osf.io/preprints/socarxiv/fphcw/) doi:10.1017/aap.2019.5
 
