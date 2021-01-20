@@ -38,6 +38,9 @@ if coding in Python:
 ### Introductions
 #### General Introduction to complexity science and simulation
 
+* Abar, A., Theodoropoulos, G., Lemarinier, P., O’Hare, G. 2017: Agent Based Modelling and Simulation tools: A review of the state-of-art software,
+_Computer Science Review_, Volume 24. 13-33. [Online](http://www.sciencedirect.com/science/article/pii/S1574013716301198) doi: 10.1016/j.cosrev.2017.03.001.
+
 * Castellani, B. 2012: Complexity map. [Online](http://www.art-sciencefactory.com/complexity-map_feb09.html)
 
 * Chattoe-Brown, E. 2013: Why Sociology Should Use Agent Based Modelling. _Sociological Research Online 18 (3): 3._ doi:10.5153/sro.3055.
@@ -66,6 +69,8 @@ if coding in Python:
 * Costopoulos, A. and Lake, M. W. (Eds.) 2010: Simulating Change: Archaeology into the Twenty-First Century. (University of Utah Press. Salt Lake City) ISBN: 930-1-60781-036-0
 
 * Crabtree, S. A., Harris, K., Davies, B. and Romanowska, I. 2019: Outreach in Archaeology with Agent-Based Modeling: Part 3 of 3. _Advances in Archaeological Practice 7 (2). 194–202._ [Online](https://osf.io/preprints/socarxiv/9uw6j/) doi: 10.1017/aap.2019.4
+
+* Craenen, B., Theodoropoulos, G., Suryanarayanan, V., Gaffney, V., Murgatroyd, P., Haldon, J. 2010: Medieval military logistics: a case for distributed agent-based simulation. _Proceedings of the 3rd International ICST Conference on Simulation Tools and Techniques (SIMUTools '10)_. ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), Brussels, BEL, Article 6. 1–8. [Online](https://dl.acm.org/doi/10.4108/ICST.SIMUTOOLS2010.8737) doi: 10.4108/ICST.SIMUTOOLS2010.8737
 
 * Davies, B., Romanowska, I., Harris, K. and Crabtree, S. A. 2019: Combining Geographic Information Systems and Agent-Based Models in Archaeology: Part 2 of 3. _Advances in Archaeological Practice 7 (2). 185–93._ [Online](https://osf.io/preprints/socarxiv/fphcw/) doi:10.1017/aap.2019.5
 
@@ -220,6 +225,8 @@ if coding in Python:
 * Mithen, S. and Reed, M. 2002: Stepping out: a computer simulation of hominid dispersal from Africa. _Journal of Human Evolution 43 (4). 433-62._ doi: 10.1006/jhev.2002.0584
 
 * Morrison, A. E., Allen, M. S. 2017: Agent-based modelling, molluscan population dynamics, and archaeomalacology. _Quaternary International 427. 170–183._ doi:10.1016/j.quaint.2015.09.004. [Online](https://s3.amazonaws.com/academia.edu.documents/40109077/Morrison_Allen_2015-QI.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1533913898&Signature=53CfcineEJnfTxKDqHukb%2BOy2Zw%3D&response-content-disposition=inline%3B%20filename%3DAgent_Based_Modelling_Molluscan_Populati.pdf) 
+
+* Murgatroyd, P., Craenen, B., Theodoropoulos, G., Gaffney, V., and Haldon, J. 2012: Modelling medieval military logistics: an agent-based simulation of a Byzantine army on the march. _Comput Math Organ Theory 18_. 488–506. [Online](https://link.springer.com/article/10.1007%2Fs10588-011-9103-9) doi: 10.1007/s10588-011-9103-9
 
 * Ortega, D., Ibañez, J.J., Khalidi, L. and Méndez, V. 2014: Towards a Multi-Agent-Based Modelling of Obsidian Exchange in the Neolithic Near East. _Journal of Archaeological Method and Theory 21. 461–85._ doi:10.1007/s10816-013-9196-1.
 
